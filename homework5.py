@@ -25,7 +25,7 @@
 # # # # # #  Expected Result : ‘The lyrics is good!’
 # # # # # # ex.2
 # # # # # #   Sample String : ‘The lyrics is poor!’
-# # # # # #   Expected Result : ‘The lyrics is poor!’
+# # # # # #   Expected Result : ‘The lyrics is poor!’[]
 
 # # sample_sentence = input("Write your text here\n")
 # # my_new_sentence = sample_sentence.replace("not", "good")
