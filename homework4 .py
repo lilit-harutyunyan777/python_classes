@@ -23,7 +23,7 @@ if day_of_the_week == 6:
 # # # # 2. Write a python program which takes string as input then checks if there is a space in string ( it means that users inputed the word or the sentence ) then print message for both cases
 # users_text = input("Write text here\n")
 # space_check = " " in users_text
-# print(int(space_check) * "there is a space", int(not(space_check)) * "there isn't a space", sep = "")
+# print(int(space_check) * "there is a space", int(not(space_check)) * "there isn't a space", sep = "")..
 
 
 # # 2.1(After chatting in Slack:)))
